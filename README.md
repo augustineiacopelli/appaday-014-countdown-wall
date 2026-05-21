@@ -40,3 +40,7 @@ Open the app in Safari → tap the Share icon → **Add to Home Screen**. It lau
 ## Category
 
 **P · Productivity & Life** — AppADay 014
+
+## Future Updates
+- Add Categories/sort
+- Add Edit Button for Events
